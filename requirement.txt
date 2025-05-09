@@ -1,0 +1,21 @@
+phidata 
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+google-generativeai
+streamlit 
+requests
+pandas 
+numpy
+matplotlib 
+transformers
+torch 
+torchvision 
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+datasets 
+chromadb
